@@ -8,7 +8,7 @@ from aiogram.enums import ParseMode
 from aiogram.client.default import DefaultBotProperties
 
 # Получаем токен из переменных окружения
-TOKEN = os.getenv("8286523290:AAHHCNQmARWrXDQk44Hy-GnNwkhl2qQvTXs")
+TOKEN = "8286523290:AAHHCNQmARWrXDQk44Hy-GnNwkhl2qQvTXs"
 
 # Инициализация диспетчера
 dp = Dispatcher()
